@@ -170,4 +170,8 @@ Access the application at: http://localhost:3000
 For additional support or inquiries, please refer to the issue tracker or contact the system administrators.
 
 ## License
+<<<<<<< HEAD
 This project is licensed under the MIT License. See LICENSE file for details. 
+=======
+This project is licensed under the MIT License. See LICENSE file for details.
+>>>>>>> 4f8be30c75869ece24dd0c8cbc1bfa41df2b7821
